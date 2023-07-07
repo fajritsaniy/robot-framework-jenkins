@@ -5,3 +5,5 @@
 ```bash
 robot -d Results main.robot
 ```
+
+jenkins test
